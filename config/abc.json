@@ -3,6 +3,6 @@
         "module" : "dirlister"
     },
     {
-        "module" : "enviroment"
+        "module" : "environment"
     }
 ]
